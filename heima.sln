@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34729.46
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "heima", "heima.vcxproj", "{A23B38AC-8190-402A-AE77-C7E9FABBCB15}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "通讯录管理系统", "..\通讯录管理系统\通讯录管理系统.vcxproj", "{1C70B194-1006-447D-919A-1A599A97215A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A23B38AC-8190-402A-AE77-C7E9FABBCB15}.Release|x64.Build.0 = Release|x64
 		{A23B38AC-8190-402A-AE77-C7E9FABBCB15}.Release|x86.ActiveCfg = Release|Win32
 		{A23B38AC-8190-402A-AE77-C7E9FABBCB15}.Release|x86.Build.0 = Release|Win32
+		{1C70B194-1006-447D-919A-1A599A97215A}.Debug|x64.ActiveCfg = Debug|x64
+		{1C70B194-1006-447D-919A-1A599A97215A}.Debug|x64.Build.0 = Debug|x64
+		{1C70B194-1006-447D-919A-1A599A97215A}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C70B194-1006-447D-919A-1A599A97215A}.Debug|x86.Build.0 = Debug|Win32
+		{1C70B194-1006-447D-919A-1A599A97215A}.Release|x64.ActiveCfg = Release|x64
+		{1C70B194-1006-447D-919A-1A599A97215A}.Release|x64.Build.0 = Release|x64
+		{1C70B194-1006-447D-919A-1A599A97215A}.Release|x86.ActiveCfg = Release|Win32
+		{1C70B194-1006-447D-919A-1A599A97215A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

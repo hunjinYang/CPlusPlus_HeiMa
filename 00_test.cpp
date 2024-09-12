@@ -1,21 +1,20 @@
 //#include<iostream>
 //using namespace std;
 //
-//int add(int a, int b)
-//{
-//	return a + b;
-//
-//}
+//struct Student {
+//	string name;
+//	int age;
+//	int score;
+//};
 //
 //int main()
-//{	
+//{
+//	struct Student s = {"李四",18,100};
+//	struct Student* p = &s;
+//	p->name = "王五";
+//	cout << "s.name = " << s.name;
+//	
 //
 //	
 //	return 0;
 //}
-//
-//
-////单行注释
-///*
-//  多行注释
-//*/
