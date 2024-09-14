@@ -147,6 +147,30 @@
     <ClCompile Include="24_9_12_boss.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="24_9_13_函数模板语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_9_13_数组排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_9_13_模板的局限.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_9_13_类模板与函数模板区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_9_14_类模板与继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_9_14_类模板成员函数类外实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_9_14_类模板与友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_9_14_数组类封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
@@ -168,6 +192,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="boss.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myarray.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

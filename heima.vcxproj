@@ -160,6 +160,14 @@
     <ClCompile Include="24_9_12_电脑组装与多态.cpp" />
     <ClCompile Include="24_9_12_职工管理系统.cpp" />
     <ClCompile Include="24_9_12_读文件.cpp" />
+    <ClCompile Include="24_9_13_函数模板语法.cpp" />
+    <ClCompile Include="24_9_13_数组排序.cpp" />
+    <ClCompile Include="24_9_13_模板的局限.cpp" />
+    <ClCompile Include="24_9_13_类模板与函数模板区别.cpp" />
+    <ClCompile Include="24_9_14_数组类封装.cpp" />
+    <ClCompile Include="24_9_14_类模板与友元.cpp" />
+    <ClCompile Include="24_9_14_类模板与继承.cpp" />
+    <ClCompile Include="24_9_14_类模板成员函数类外实现.cpp" />
     <ClCompile Include="24_9_2_goto.cpp" />
     <ClCompile Include="24_9_2_九九乘法表.cpp" />
     <ClCompile Include="24_9_2_五只小猪称体重.cpp" />
@@ -189,6 +197,7 @@
     <ClInclude Include="circle.h" />
     <ClInclude Include="employee.h" />
     <ClInclude Include="manager.h" />
+    <ClInclude Include="myarray.h" />
     <ClInclude Include="point.h" />
     <ClInclude Include="worker.h" />
     <ClInclude Include="workerManager.h" />
