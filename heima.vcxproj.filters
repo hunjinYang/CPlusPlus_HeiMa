@@ -171,6 +171,15 @@
     <ClCompile Include="24_9_14_数组类封装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="24_10_9_初识STL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_10_9_vector存放自定义数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_10_9_容器嵌套容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">

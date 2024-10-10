@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="00_test.cpp" />
+    <ClCompile Include="24_10_9_vector存放自定义数据类型.cpp" />
+    <ClCompile Include="24_10_9_初识STL.cpp" />
+    <ClCompile Include="24_10_9_容器嵌套容器.cpp" />
     <ClCompile Include="24_8_12_start.cpp" />
     <ClCompile Include="24_8_30_if.cpp" />
     <ClCompile Include="24_9_10_全局函数做友元.cpp" />
